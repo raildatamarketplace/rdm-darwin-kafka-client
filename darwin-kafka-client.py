@@ -8,7 +8,7 @@ warnings.filterwarnings('ignore')
 import json
 
 BOOTSTRAP_SERVER = ''
-GROUP_ID = 'rdm-darwin-kafka-group'
+GROUP_ID = ''
 SASL_USERNAME = ''
 SASL_PASSWORD = ''
 SSL_CA_LOCATION = ''
